@@ -1,7 +1,6 @@
 #All-Inclusive Guide to Bay Area Tech meetups
 
-Why go to meetups?  
-Maybe you want to 
+Do you want to
 + get better at programming? :computer:
 + network 
 + improve job prospects
@@ -9,18 +8,20 @@ Maybe you want to
 + meet amazing people. 
 WELL THEN…you should go to some tech meetups all over the Bay Area! But there's so many, you protest! :flushed:
 
-As a devangelist intern last summer in the heart of *SoMa* :yum: (South of Market, San Francisco), I attended up to four meetups per week! I loved going for the lively discussions with engineers, evangelists, designers, students, and a plethora of people from not just San Francisco or the Bay Area, but from all over the world. I relished office visits, swag, raffles, talks, workshops, and just the atmosphere in general. Though I was often one of the only, if not the only, intern, I was treated exactly like *any other meetup attendee*. There was often an aura of **creativity**, **innovation**, **startup ideas**, and it was amazing how I could learn something from everyone I met, and also teach them some things, too (I hope.) :wink: I have been to most of the meetups listed here, and heard of all of these—you can probably tell the ones I enjoy and recommend based on emoji usage! 
+As an intern last summer in the heart of *SoMa* :yum:, some weeks I attended up to four meetups! I loved going for the lively discussions with engineers, evangelists, designers, students, and a plethora of people from not just San Francisco or the Bay Area, but from all over the world. I relished office visits, swag, raffles, talks, workshops, and just the atmosphere in general. I have been to most of the meetups listed here, and heard of all of these—you can probably tell the ones I enjoy and recommend based on emoji usage! 
 
 ## Where to look for meetups :collision:
 
-With an endless supply of meetups (not just tech-related), and meetups all over the world,[Meetup.com](https://www.meetup.com) is A+. Many of the meetups here are monthly, weekly, or meet routinely. Similarly, I also recommend [Eventbrite](https://www.eventbrite.com), and [Facebook](https://www.facebook.com) also has a few, which I often find in tech related groups (Hackathon Hackers, Ladies Storm Hackathons, but more often, in their subgroups, often targeted at location or platform ie iOS, web, IoT, etc.)
+With an endless supply of meetups (not just tech-related), and meetups all over the world, [Meetup.com](https://www.meetup.com) is A+. Many of the meetups here are monthly, weekly, or meet routinely. Similarly, I also recommend [Eventbrite](https://www.eventbrite.com), and [Facebook](https://www.facebook.com) also has a few, which I often find in tech related groups (Hackathon Hackers, Ladies Storm Hackathons, but more often, in their subgroups, often targeted at location or platform ie iOS, web, IoT, etc.)
 
 
 ##:fire:Top meetups (IMO) 
 + :fire: [SFHTML5](https://www.meetup.com/sfhtml5) takes the :cake:, and not just because every time I attend, I leave with at least one :wine_glass:! Held at Google SF, the $10 ticket fee is just to discourage no-shows, and more than covers the food and drinks. Organized by [Vanessa Wang](https://twitter.com/vjwang) and [Peter Lubbers](https://twitter.com/peterlubbers), SFTHML5 has me coming back every time. Past speakers have included: :heart_eyes: [Tomomi Imura](https://twitter.com/girlie_mac), [Paul Irish](https://twitter.com/paul_irish), [Paul Bakaus](https://twitter.com/pbakaus), [Aysegul Yonet](https://twitter.com/AysSomething), and so many more. Past topics have included, but are very much not limited to, WebVR, holographic web apps, D3.js, custom Slack integrations, webRTC, TypeScript, React, AND JUST SO MANY MORE.
+<img src = “https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdXDyj3M_TTocKi9K5140bz-Qtzjid67EXWzA6bSQUJYsJ_jVf” width =“25”>
+<img src= images/sfhtml5pres.JPG width=250 height=150>
 <br>
 <br>
-+ :fire: [TwitterDev](https://www.meetup.com/pro/twitterdev/) There are TwitterDev meetups held all over the world. Past SF meetups have been at Twitter HQ, PubNub, and others. Great speakers and people. Past topics have included "Improving your App's UX with Fabric", "Build mobile apps faster with AWS and Fabric", and "Building the Periscope Experience on Android and more!" among others. Speakers have included [Fastlane](https://fastlane.tools/)'s [Felix Krause](https://twitter.com/krausefx), Twitter's [Josh Liebowitz](https://twitter.com/TheLiebowitz), and :sunglasses:[PubNub](https://pubnub.com)'s iOS lead, [Jordan Zucker](https://twitter.com/jzucker), among others.
++ :fire: [TwitterDev](https://www.meetup.com/pro/twitterdev/) hosts meetups all over the world, and past SF meetups have been at Twitter HQ, PubNub, and others. Great speakers and people. Past topics have included "Improving your App's UX with Fabric", "Build mobile apps faster with AWS and Fabric", and "Building the Periscope Experience on Android and more!" among others. Speakers have included [Fastlane](https://fastlane.tools/)'s [Felix Krause](https://twitter.com/krausefx), Twitter's [Josh Liebowitz](https://twitter.com/TheLiebowitz), and :sunglasses:[PubNub](https://pubnub.com)'s iOS lead, [Jordan Zucker](https://twitter.com/jzucker), among others.
 <br>
 <br>
 + :fire:[San Francisco JavaScript meetup](https://www.meetup.com/jsmeetup/). Great talks, social outings, and also has some “hack sessions.” Led by [Dave Nugent](https://twitter.com/drnugent/). Past talks have included Preact, Inferno, and Async Redux,"Horizon & 5 Kung Fu Moves for Front-End Hero, React, Data Handling, & the JS Event Loop, and more! 
@@ -28,8 +29,10 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 + :fire: [SFNode](https://www.meetup.com/sfnode/) has great talks, food, and people. Held at places like GitHub and Sentry. Led by [Dan Shaw](https://twitter.com/dshaw), some past talks and speakers have included Creating Electronic Dance Music with JavaScript & Node.js with [Walmik Deshpande](https://twitter.com/_walmik) (I attended this talk--it was A+!), Open Source S3 Clone in Node,Authy and Node - Easy and Quick 2FA, and so many more. 
 <br>
-##Meetups by topic
++ :fire: [WaffleJS](https://wafflejs.com). Come for the waffles. Stay for the speakers. $12 to attend, but is donated to a non-profit (usually Black Girls Code.) Great talks take place first Wednesday of every month at SoMa StrEAT Food Park, past ones include Automate your User-interface QA using selenium, and [Rodney Folz’s](https://twitter.com/rodneyfolz) If You Only Make Chrome Extensions, You’re Killing the Open Web.
+<img src= images/wafflejs.JPG width=250 height=150>
 
+##Meetups by topic
 ###Mobile meetups (broad)
 + [SF Mobile Developers](https://www.meetup.com/SF-Mobile-App-Developers/). Past talks include Firebase Realtime Mobile and Web Apps and Backend plus User Design Talk, Cordova 4.0, Ionic and Onsen UI and Debugging, and PhoneGap Debugging, PhoneGap, and the latest CSS Layouts for your Apps, and Build a Responsive and Fast REST client in an hour with Yigit Boyar, among others.
 
@@ -67,9 +70,9 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 ### Web meetups
 
-+ :sparkles: [Ember SF](https://www.meetup.com/Ember-SF/) Great speakers and meetup locations (LinkedIn SF, Playstation, and Twitch, among others.) Organized by :bear:[Bear Douglas](https://twitter.com/beardigsit), previous talks and speakers have included On the Bleeding Edge with Ember Engines by Kacey Coughlin, WebGL in Ember by Matt McKenna, and Profiling and Optimizing Ember by Landon Noss, and so many more!   
++ :sparkles: [Ember SF](https://www.meetup.com/Ember-SF/). Great speakers and meetup locations (LinkedIn SF, Playstation, and Twitch, among others.) Organized by :bear:[Bear Douglas](https://twitter.com/beardigsit), previous talks and speakers have included On the Bleeding Edge with Ember Engines by Kacey Coughlin, WebGL in Ember by Matt McKenna, and Profiling and Optimizing Ember by Landon Noss, and so many more!   
 
-+ [Node.JS Club SF](https://www.meetup.com/Node-js-Serverside-Javascripters-Club-SF/) Past talks have included "Serverside React Rendering: Isomorphic JavaScript with ReactJS and Node," "Writing Express Middleware," and "Is Multi-Model the Future of NoSQL," among others. 
++ [Node.JS Club SF](https://www.meetup.com/Node-js-Serverside-Javascripters-Club-SF/). Past talks have included "Serverside React Rendering: Isomorphic JavaScript with ReactJS and Node," "Writing Express Middleware," and "Is Multi-Model the Future of NoSQL," among others. 
 <br>
 + [Bay Area d3 User Group](https://www.meetup.com/Bay-Area-d3-User-Group/). Past talks have included workshops, open labs, layout modules, and other visualization libraries. There seems to be a pretty solid community here—I plan on checking it out soon!
 ###Go meetups
@@ -81,12 +84,18 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 ###Women in tech meetups
 + [PyLadies SF](https://www.meetup.com/PyLadiesSF/) has weekly study groups at different offices around SoMa. In addition to study groups (with food, mentors, and community), there are discussions, talks, and social outings, like a group trip to see Hidden Figures. Led by [Michelle Glauser](https://twitter.com/MichelleGlauser). Past talks/meetups have included Data Science Night at the Wikimedia Foundation, Post-Election Action Night with [Techqueria](https://techqueria.org/), and more!
+<img src= images/studygroup.JPG width=250 height=150>
 <br>
 
 + :information_desk_person:[Women who Code SF](https://www.meetup.com/Women-Who-Code-SF/) has Ruby and Web Tuesdays held at various SF offices, Mobile Development meetups (talks, mentors, workshops), and more. I really enjoyed the iOS/Android meetup I attended at Airbnb which had speakers like :star: [Kristina Thai](https://twitter.com/kristinathai), :punch: [Erin Parker](https://twitter.com/neverbendeasy), and :heartbeat: [Jennifer Shola](https://twitter.com/breakowt)! I learned so much, and loved the atmosphere (and Airbnb had A+ food, drinks, and office in general.)
+<img src= images/wwcodeairbnb.JPG width=250 height=150>
 <br>
 
 + [Girls in Tech](https://www.meetup.com/GITSANFRAN/). Honestly, these seem more like community-building and support groups—and that’s completely okay. With weekly co-working meetups, and a few other special events, this meetup looks like a fun way to network, learn, and grow at offices like Asana and Amazon AWS Loft.
+<br>
+
++ [Square WomEng Hear + Now Lightning Talks](https://github.com/square/womeng_handbook/blob/master/external_events/hear_and_now.md). Diverse speakers, I loved the College Speakers edition one last August. Square’s offices are great, Jack Dorsey stopped by, and I loved the atmosphere and people. Great culture.
+<img src= images/squarewomeng.JPG width=550 height=150>
 
 ### Design meetups
 + :raised_hands:[Designers & Geeks](https://www.meetup.com/designersgeeks/) has some great speakers. You pretty much always have to pay for a ticket on Eventbrite or on their [site](https://designersandgeeks.com/). Past talks have included Letters to a Young Designer with [Kristy Tillman](https://twitter.com/KristyT) of [Slack](https://slack.com), Delightful Devices with [Amy Wibowo of BubbleSort Zines](https://twitter.com/sailorhg), among others.
@@ -104,7 +113,7 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 + [106 Miles](https://www.meetup.com/106miles/) is for entrepreneurs and web developers. Meetups held across the Bay Area, at bars and restaurants around Redwood City, Palo Alto, and San Francisco.
 <br>
 <br>
-+ :thumbsup: [SF Investors and Startups](https://www.meetup.com/SFInvestors/) They host celebrity VC’s including [Megan Quinn](https://twitter.com/msquinn), [Holly Liu](https://twitter.com/hollyhliu) of [Kabam](www.kabam.com), and Tinder’s founder and CEO [Sean Rad](https://twitter.com/seanrad), among others. You have to pay for tickets, but hey, these are some pretty A+ speakers and connections.
++ :thumbsup: [SF Investors and Startups](https://www.meetup.com/SFInvestors/) hosts celebrity VC’s including [Megan Quinn](https://twitter.com/msquinn), [Holly Liu](https://twitter.com/hollyhliu) of [Kabam](www.kabam.com), and Tinder’s founder and CEO [Sean Rad](https://twitter.com/seanrad), among others. You have to pay for tickets, but hey, these are some pretty A+ speakers and connections.
 <br>
 
 + :grinning: [Startup Grind](https://www.meetup.com/Startup-Grind/). Though many of their events you have to pay, they host a variety of fun parties, movie nights, networking events, and VC speakers. 
@@ -132,11 +141,18 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 + [SV SF Cloud & Mobile Developer Meetup](https://www.meetup.com/Silicon-Valley-San-Franciso-Cloud-Mobile-Developer-Meetup/). Fun talks and hackathons, they seem to be IBM-centric with topics like Watson and Artificial Intelligence within Financial Services and Watson Alchemy APIs.
 <br>
 
-###Developer Relations meetups :muscle: 
+###Developer Relations/API meetups :muscle: 
 + [Developer Advocacy and Evangelism in the Bay Area](https://www.meetup.com/DeveloperAdvocates/) Social events around SF.
 <br>
 
 + [Advocates and Evangelists-the Drinkup](https://www.meetup.com/DevGuild-Evangelists-The-DrinkUp/). Literally just go drinking with other DevRel people around SF.
+<br>
+
++ [API Craft SF](https://www.meetup.com/API-Craft-San-Francisco/). Meetup topics include API documentation, the future of API Management, Challenges and opportunities of API tooling in a distributed enterprise environment, and The State of API Documentation, 2017 Edition - Industry Report Summary, among others. Locations have included Adobe, Google SF,  etc.
+<br>
++ [API Discovery](https://www.meetup.com/apidiscovery/). Past meetups include Keen IO Analytics API Crash Course, Reinventing Data Security, and more. Past locations have included Square, etc.
+<br>
++ [SF APIs and IPAs](https://www.meetup.com/apiipa/). This meetup was founded January 2017, and seems to be gaining in popularity. Their first meetup featured 2 IPA's from local brewery Hop Dogma, a talk from Co-Founder and brewer Dan Littlefield, talks from CEO of [Thunkable](http://thunkable.com/#/) [Arun Saigal](https://twitter.com/aksaigal), Amazon Alexa Developer Evangelist [Memo Döring](https://twitter.com/memodoring), and Cisco VP/GM [Jason Goecke](https://twitter.com/jsgoecke).
 
 ###Artificial Intelligence meetups
 + :heart_eyes_cat: [Super Intelligence meetup](https://www.meetup.com/superintelligencemeetup/). I don’t know how, but they got [Andrew Ng]() to speak, as well as some other engineers at Baidu’s Silicon Valley AI Lab FOR ONE MEETUP. Others have included [Richard Socher](https://twitter.com/RichardSocher), Chief Scientist at Salesforce, and Google’s [Francois Chollet](https://twitter.com/fchollet). Like, holy crow I can’t believe I just found out about this meetup group!
@@ -145,9 +161,14 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 ###Interview Prep meetups
 + [Hack Reactor](https://www.meetup.com/hackreactor/) hosts study groups for algorithms, fundamentals, and various talks and workshops. Very beginner-friendly.
 <br>
++ [SF Bay Area Tech Interview](https://www.meetup.com/SF-Bay-Area-Tech-Interview-Meetup/) hosts weekly tech interview whiteboarding sessions. Held at the office of Silicon Valley in Sunnyvale.
+
+###Open Source meetups
++ [Bay Area Open Source](https://www.meetup.com/Bay-Area-Open-Source-Meetup/). Past topics include Docker Security & Kubernetes and Open Source Lunch Windows Subsystem for Linux, and past locations include SAP in Palo Alto.
 
 ###Robots/Bots meetups
 + [Bay Area Bot, Chat, and Conversational App Developers Group](https://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/). Talks have included API.ai, IBM Watson Conversation Service APIs, Bebo, and much more! I attended one meetup at Slack HQ, and really enjoyed the topic, speakers, people, and location.
+<img src= images/botslackmeetup.JPG width=300 height=200>
 <br>
 
 + [SF Robot Makers Club](https://www.meetup.com/San-Francisco-Robot-Makers-Club/). Just started at the beginning of this year, this meetup is already gaining in popularity.
@@ -170,11 +191,14 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 + [SF Amazon Alexa meetup](https://www.meetup.com/SF-Amazon-Alexa/). Learn how to build Alexa skills!
 <br>
 + [Product Hunt meetups](https://www.producthunt.com/meetups). PH meetups are hosted all around the country, but a [big SF one](https://www.facebook.com/events/1815463425377005/) was hosted recently with AngelList at [1015 Folsom](www.1015.com). There was an insanely long line, and lots of food, drinks, and swag.
-
-###Virtual Reality meetups
+<br>
+# [UberDev] (https://www.meetup.com/UberEvents/). Tech talk series focuses on building scalable, high-quality mobile applications. Past talks include [Matt Ranney](https://twitter.com/mranney) talking The DOSA Object Storage System (Uber’s storage system inspired by Facebook’s TAO system), Dragon: A distributed graph query engine, etc.
+###Virtual/Augmented Reality meetups
 + [Upload VR](https://www.meetup.com/UploadVR/). Fairly routine meetups with topics like Brain Talks - Humanizing Computer Interfaces, VR Weekend Workshop: Learn Unity, and 360 Filmmaking Best Practices w/ Alex Henning (Magnopus).
 <br>
 + [Virtual Augmented Reality meetup](https://www.meetup.com/VirtualAugmentedReality/). With panel talks and demos, this forum aims to transform ideas on workplace diversity, design adaptations, and social experiences into real solutions by bridging a dialog between technologists, creatives and makers, each program explores innovative practices and emerging trends in the industry.  
+<br>
++ [Augmented Reality SF Bay Area](https://www.meetup.com/ARSFBA/). Lots of attendees and demos, like from Quantum Interface, NullSpace VR, illusio and VicoVR, as well as Blippar, Loci, AWE.media, DAQRI, Legacy Games, Meta, Scope AR, Occipital and Vuzix.
 
 ###Hack for Good meetups
 + [Code for SF-Civic Hack Nights](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/). This meetup is focused on improving SF, making changes by fixing government services, creating data visualizations, and engaging San Franciscans. They host weekly hack nights most Wednesdays, as well as some more special meetups.
@@ -199,7 +223,7 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 <br>
 
 ###Category-less meetups
-+ [Bay Area Software Engineers (BASE)](https://www.meetup.com/software/)Talks on things from Azure, DC/OS, Product Managers, Microsoft Azure Data Storage, bots, and more. They haven’t had a meetup since September, so I’m not sure what’s up…
++ [Bay Area Software Engineers (BASE)](https://www.meetup.com/software/). Talks on things from Azure, DC/OS, Product Managers, Microsoft Azure Data Storage, bots, and more. They haven’t had a meetup since September, so I’m not sure what’s up…
 <br>
 
 + [Silicon Valley Hands-On Programming Events](https://www.meetup.com/HandsOnProgrammingEvents/). Weekly deep learning study groups all over the Peninsula.
@@ -213,29 +237,24 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 + [Palo Alto/Stanford One Salon](https://www.facebook.com/groups/stanfordsalon). The original One Salon, “the Pillars of the Salon are: 1) Intellectual, 2) Emotional and 3) Experiential Stimulation.” This one meets on Mondays.
 
 ## Meetups by location
+### SF meetups
 
-### SoMa meetups
-
-<br>
-### Palo Alto meetups
+### South Bay meetups
 + [CS + Social Good](http://www.cs4good.com)
 + [Palo Alto/Stanford One Salon](https://www.facebook.com/groups/stanfordsalon)
++ [SF Bay Area Tech Interview](https://www.meetup.com/SF-Bay-Area-Tech-Interview-Meetup/)
 <br>
 
 ##Networking
 Whatever can you talk about with people at meetups? If it’s an iOS meetup, I’m guessing you’re both interested in iOS. If it’s at, say, GitHub, there are always cool stickers and the Octocat statue. Get out of your comfort zone! :scream:
 <br>
 
-### Get connections
-
-Connections are very useful -- you should meet as many people as you can in your industry. They can help you land interviews and improve the company's opinion of you (and vice versa).
-
 ### Keep in touch
 Add people on LinkedIn, Twitter. Don’t be afraid to ask for business cards or emails or anything. Chances are, you’ll see these people at future meetups, or at other tech meetups around SF. I’m surprised at how tight-knit some of the meetups, or developer community/ies in general are!
 
 ##Speaking
 
-+ Web: [React Native](https://docs.google.com/forms/d/e/1FAIpQLScKi1v_49wcobNZjfC5ELZV0dZvORZ4ZEGsf4iiDTAtCS5gzw/viewform?c=0&w=1),
++ Web: [React Native](https://docs.google.com/forms/d/e/1FAIpQLScKi1v_49wcobNZjfC5ELZV0dZvORZ4ZEGsf4iiDTAtCS5gzw/viewform?c=0&w=1), [WaffleJS](https://wafflejs.com/speakers),
 <br>
 + Mobile: [Android, iOS, and more](https://goo.gl/forms/wZMyz6xNsg6ZA5173)
 <br>
@@ -244,8 +263,10 @@ Add people on LinkedIn, Twitter. Don’t be afraid to ask for business cards or 
 
 There are so many meetups to choose from, both in and out of the Bay Area. Go for the people, go for the community, and go to learn from not just speakers, but attendees. Yes, you can network, but there's so much knowledge to gain and also impart on others. 
 
-*TODO*: Been to any meetups? Heard of any good ones? Well, then fork this repo, submit some pull requests, and contribute! Add thoughts on meetups you've attended in the Bay Area, alphabetize, and create different categories. 
-Questions? Comments? Concerns? Tweet me at [@lizziepika](https://www.twitter.com/lizziepika), or email me at esiegle@brynmawr.edu
+*TODO*: Been to any meetups? Heard of any good ones? Well, then fork this repo, submit some pull requests, and contribute! Add thoughts on meetups you've attended in the Bay Area, alphabetize, create different categories, add on to the list, improve organization and links…
+<br>
+ 
+Questions? Comments? Concerns? Tweet me at [@lizziepika](https://www.twitter.com/lizziepika), or email me at esiegle@brynmawr.edu.
 
 ##License
 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
