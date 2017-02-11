@@ -24,6 +24,7 @@ Yes, [Meetup.com](https://www.meetup.com) is A+. They have so many meetups (not 
 ##Meetups by topic
 ###Mobile meetups (broad)
 + [SF Mobile Developers](https://www.meetup.com/SF-Mobile-App-Developers/). Past talks include Firebase Realtime Mobile and Web Apps and Backend plus User Design Talk, Cordova 4.0, Ionic and Onsen UI and Debugging, and PhoneGap Debugging, PhoneGap, and the latest CSS Layouts for your Apps, and Build a Responsive and Fast REST client in an hour with Yigit Boyar, among others.
+
 ###iOS meetups
 + :star2: [Swift Language User Group](https://www.meetup.com/swift-language/) has *really* great talks and speakers. Lately, it’s been hosted at [Realm](https://realm.io), which is a great meetup space. Past talks and speakers have included :ok_hand: ”Swift 3 Spelunking with [Greg Heo](https://twitter.com/gregheo), "From Pokémon to Paypal: The customer experience metrics you should optimize", "iOS Accessibility with Google's David Tseng and Benetech", and more!
 <br>
@@ -39,6 +40,7 @@ Yes, [Meetup.com](https://www.meetup.com) is A+. They have so many meetups (not 
 <br>
 + :two_hearts: [NSMeetup](https://www.meetup.com/nsmeetup/) has an impressive track record of talks speakers, like Swift Reactive Programming for Beginners with [Greg Heo](https://twitter.com/gregheo), Building Apps with tvOS, Layout at Scale with AsyncDisplayKit 2, and  HomeKit Inside And Out.
 <br>
+
 ###Android meetups
 + [SF Android User Group](https://www.meetup.com/sfandroid/) has great talks at offices like Yelp and Google Launchpad. 
 <br>
@@ -80,8 +82,10 @@ Yes, [Meetup.com](https://www.meetup.com) is A+. They have so many meetups (not 
 <br>
 <br>
 + [SF Design Systems Coalition](https://www.meetup.com/San-Francisco-Design-Systems-Coalition/). Interesting topics like Design Systems at Twitter (hosted at Twitter, of course.)
+
 ###Bitcoin meetups
 + [SF Bitcoin Social](https://www.meetup.com/San-Francisco-Bitcoin-Social/). Besides weekly drinks, talks have included Sidechains and List with [Max Kordek](https://twitter.com/MaxKordek) (Lisk CEO), and other CEOs. 
+
 ###Entrepeneurship meetups
 + [106 Miles](https://www.meetup.com/106miles/) is for entrepreneurs and web developers. Meetups held across the Bay Area, at bars and restaurants around Redwood City, Palo Alto, and San Francisco.
 <br>
@@ -103,6 +107,7 @@ Yes, [Meetup.com](https://www.meetup.com) is A+. They have so many meetups (not 
 
 + [Hackers and Founders](https://www.meetup.com/Hackers-and-Founders/) hosts coffee, socials, talks all over Bay Area, from the South Bay to San Mateo to SF.
 <br>
+
 ###Cloud Computing meetups
 + [Silicon Valley Cloud Computing](https://www.meetup.com/cloudcomputing). Past topics have included Kubernetes with [Patrick Reilly](https://twitter.com/preillyme) of Cisco, and past speakers have included :clap: [Dr. FeiFei Li](https://twitter.com), [Nate Silver](https://twitter.com/NateSilver538), and more.
 <br>
@@ -112,22 +117,26 @@ Yes, [Meetup.com](https://www.meetup.com) is A+. They have so many meetups (not 
 
 + [SV SF Cloud & Mobile Developer Meetup](https://www.meetup.com/Silicon-Valley-San-Franciso-Cloud-Mobile-Developer-Meetup/). Fun talks and hackathons, they seem to be IBM-centric with topics like Watson and Artificial Intelligence within Financial Services and Watson Alchemy APIs.
 <br>
+
 ###Developer Relations meetups :muscle: 
 + [Developer Advocacy and Evangelism in the Bay Area](https://www.meetup.com/DeveloperAdvocates/) Social events around SF.
 <br>
 
 + [Advocates and Evangelists-the Drinkup](https://www.meetup.com/DevGuild-Evangelists-The-DrinkUp/). Literally just go drinking with other DevRel people around SF.
+
 ###Artificial Intelligence meetups
 + :heart_eyes_cat: [Super Intelligence meetup](https://www.meetup.com/superintelligencemeetup/). I don’t know how, but they got [Andrew Ng]() to speak, as well as some other engineers at Baidu’s Silicon Valley AI Lab FOR ONE MEETUP. Others have included [Richard Socher](https://twitter.com/RichardSocher), Chief Scientist at Salesforce, and Google’s [Francois Chollet](https://twitter.com/fchollet). Like, holy crow I can’t believe I just found out about this meetup group!
 <br>
 ###Interview Prep meetups
 + [Hack Reactor](https://www.meetup.com/hackreactor/) hosts study groups for algorithms, fundamentals, and various talks and workshops. Very beginner-friendly.
 <br>
+
 ###Robots/Bots meetups
 + [Bay Area Bot, Chat, and Conversational App Developers Group](https://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/). Talks have included API.ai, IBM Watson Conversation Service APIs, Bebo, and much more!
 <br>
 
 + [SF Robot Makers Club](https://www.meetup.com/San-Francisco-Robot-Makers-Club/). Just started at the beginning of this year, this meetup is already gaining in popularity.
+
 ###Company-focused meetups
 + [NoiseBridge Hackerspace](https://www.meetup.com/noisebridge/). Past/weekly meetups include Optional Static Typing in Python, Circuit Hacking Mondays, Programming for Interviews, etc.
 <br>
@@ -145,33 +154,39 @@ Yes, [Meetup.com](https://www.meetup.com) is A+. They have so many meetups (not 
 <br>
 + [SF Amazon Alexa meetup](https://www.meetup.com/SF-Amazon-Alexa/). Learn how to build Alexa skills!
 <br>
++ [Product Hunt meetups](https://www.producthunt.com/meetups). PH meetups are hosted all around the country, but a [big SF one](https://www.facebook.com/events/1815463425377005/) was hosted recently with AngelList at [1015 Folsom](www.1015.com). There was an insanely long line, and lots of food, drinks, and swag.
+
 ###Virtual Reality meetups
 + [Upload VR](https://www.meetup.com/UploadVR/). Fairly routine meetups with topics like Brain Talks - Humanizing Computer Interfaces, VR Weekend Workshop: Learn Unity, and 360 Filmmaking Best Practices w/ Alex Henning (Magnopus).
+
 ###Hack for Good meetups
 + [Code for SF-Civic Hack Nights](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/). This meetup is focused on improving SF, making changes by fixing government services, creating data visualizations, and engaging San Franciscans. They host weekly hack nights most Wednesdays, as well as some more special meetups.
+
 ###Machine Learning meetups
 + [SF Machine Learning](https://www.meetup.com/sfmachinelearning/). They host use cases and office hours, Q&A’s, and talks like How ML can Transform your startup at places like Google Launchpad. 
 <br>
+
 ###IoT meetups
 + [SF IoT](https://www.meetup.com/The-San-Francisco-Internet-of-Things-Meetup). Some pretty interesting talks regarding things like product development, as well as holiday parties and other socials.
+
 ###Reliability Engineering
 + [SF Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/). Monthly lightning talks on a variety of topics (usually held at Twitter).
+
 ###Hardware meetups
 + [TechShop](https://www.meetup.com/TechShop/). Lots of game nights, Laser Club meetings, and happy hours.
 <br>
 
 + [Hardware Startup SF](https://www.meetup.com/HardwareStartupSF/) is building the hardware community in SF by hosting hardware experts, speakers, and entrepreneurs. 
 <br>
+
 ###Category-less meetups
 + [Bay Area Software Engineers (BASE)](https://www.meetup.com/software/)Talks on things from Azure, DC/OS, Product Managers, Microsoft Azure Data Storage, bots, and more. They haven’t had a meetup since September, so I’m not sure what’s up…
 <br>
 
 + [Silicon Valley Hands-On Programming Events](https://www.meetup.com/HandsOnProgrammingEvents/). Weekly deep learning study groups all over the Peninsula.
 <br>
-<br>
 + :boom: [Tech in Motion](https://www.meetup.com/TechinMotionSF). I’ve never been, but have heard really good things about Tech in Motion. Some example topics include Sci-Fi Comes Alive 3D World | VR + AR Demo Night, Overcoming the Challenges within the IoT Industry, and other mixers and networking events, including speakers like [Robert Scoble](https://twitter.com/Scobleizer).
 
-<br>
 + [Free Code Camp](https://www.meetup.com/Free-Code-Camp-SF/). SO MANY WORKSHOP all over the Bay Area. Enjoy!
 
 ## Meetups by location
