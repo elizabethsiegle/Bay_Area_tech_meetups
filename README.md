@@ -1,4 +1,5 @@
-#All-Inclusive Guide to Bay Area Tech meetups
+#All-Inclusive Guide to Bay Area Tech meetups 
+###### **Pull requests are very much welcomed
 
 Do you want to
 + get better at programming? :computer:
@@ -6,12 +7,14 @@ Do you want to
 + improve job prospects
 + listen to cool talks
 + meet amazing people. 
+
 WELL THEN…you should go to some tech meetups all over the Bay Area! But there's so many, you protest! :flushed:
 
-As an intern last summer in *SoMa* :yum:, some weeks I attended up to four meetups! I loved going for the lively discussions with engineers, evangelists, designers, students, and a plethora of people from not just San Francisco or the Bay Area, but from all over the world. I relished office visits, swag, raffles, talks, workshops, and just the atmosphere in general. I have been to most of the meetups listed here, and heard of all of these—you can probably tell the ones I enjoy and recommend based on emoji usage!
+As a summer intern in *SoMa* :yum:, I attended up to four meetups a week sometimes because I loved the lively discussions with engineers, evangelists, designers, students, and meeting people from all over the globe. I relished office visits, swag, raffles, talks, workshops, and just the atmosphere in general. 
+
+I have been to most of the meetups listed here, and heard of all of these—you can probably tell the ones I enjoy and recommend based on emoji usage!
 
 ##Table of Contents
- * [Find meetups  ](#find-meetups-collision)
   * [Top meetups](#top-meetups-fire)
   * [Meetups by topic](#meetups-by-topic)
     * [Mobile meetups (broad)](#mobile-meetups-broad)
@@ -62,7 +65,7 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 + :fire: [SFNode](https://www.meetup.com/sfnode/) has great talks, food, and people. Held at places like GitHub and Sentry. Led by [Dan Shaw](https://twitter.com/dshaw), some past talks and speakers have included Creating Electronic Dance Music with JavaScript & Node.js with [Walmik Deshpande](https://twitter.com/_walmik) (I attended this talk--it was A+!), Open Source S3 Clone in Node,Authy and Node - Easy and Quick 2FA, and so many more. 
 <br>
-+ :fire: [WaffleJS](https://wafflejs.com). Come for the waffles. Stay for the speakers. $12 to attend, but is donated to a non-profit (usually Black Girls Code.) Great talks take place first Wednesday of every month at SoMa StrEAT Food Park, past ones include Automate your User-interface QA using selenium, and [Rodney Folz’s](https://twitter.com/rodneyfolz) If You Only Make Chrome Extensions, You’re Killing the Open Web.
++ :fire: [WaffleJS](https://wafflejs.com). Come for the waffles, stay for the speakers. $12 to attend, but is donated to a non-profit (usually Black Girls Code.) Great talks take place first Wednesday of every month at [SoMa StrEAT Food Park](http://www.somastreatfoodpark.com), past ones include Automate your User-interface QA using selenium, and [Rodney Folz’s](https://twitter.com/rodneyfolz) If You Only Make Chrome Extensions, You’re Killing the Open Web.
 <br>
 <img src= images/wafflejs.JPG width=300 height=300>
 
@@ -308,10 +311,16 @@ Add people on LinkedIn, Twitter. Don’t be afraid to ask for business cards or 
 
 There are so many meetups to choose from, both in and out of the Bay Area. Go for the people, go for the community, and go to learn from not just speakers, but attendees. Yes, you can network, but there's so much knowledge to gain and also impart on others. 
 
-*TODO*: Been to any meetups? Heard of any good ones? Well, then fork this repo, submit some pull requests, and contribute! Add thoughts on meetups you've attended in the Bay Area, alphabetize, create different categories, add on to the list, improve organization and links…
+*TODO*: Been to any meetups? Heard of any good ones? Well, then fork this repo, submit some pull requests, and contribute! 
++ add thoughts on Bay Area meetups you've attended
++ alphabetize 
++ create different categories
++ add on to the list
++ improve organization
+…
 <br>
 
-Questions? Comments? Concerns? Tweet me at [@lizziepika](https://www.twitter.com/lizziepika), or email me at esiegle@brynmawr.edu.
+Questions? Comments? Concerns? [Tweet](https://www.twitter.com/lizziepika) or email me at esiegle@brynmawr.edu.
 
 ##License
 [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/)
