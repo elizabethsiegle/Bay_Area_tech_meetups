@@ -222,7 +222,7 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 + [Product Hunt meetups](https://www.producthunt.com/meetups). PH meetups are hosted all around the country, but a [big SF one](https://www.facebook.com/events/1815463425377005/) was hosted recently with AngelList at [1015 Folsom](www.1015.com). There was an insanely long line, and lots of food, drinks, and swag.
 
-+ [UberDev] (https://www.meetup.com/UberEvents/). Tech talk series focuses on building scalable, high-quality mobile applications. Past talks include [Matt Ranney](https://twitter.com/mranney) talking The DOSA Object Storage System (Uber’s storage system inspired by Facebook’s TAO system), Dragon: A distributed graph query engine, etc.
++ [UberDev](https://www.meetup.com/UberEvents/). Tech talk series focuses on building scalable, high-quality mobile applications. Past talks include [Matt Ranney](https://twitter.com/mranney) talking The DOSA Object Storage System (Uber’s storage system inspired by Facebook’s TAO system), Dragon: A distributed graph query engine, etc.
 
 ### Virtual/Augmented Reality meetups
 + [Upload VR](https://www.meetup.com/UploadVR/). Fairly routine meetups with topics like Brain Talks - Humanizing Computer Interfaces, VR Weekend Workshop: Learn Unity, and 360 Filmmaking Best Practices w/ Alex Henning (Magnopus).
@@ -263,8 +263,6 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 + [SF Reliability Engineering](https://www.meetup.com/San-Francisco-Reliability-Engineering/). Monthly lightning talks on a variety of topics (usually held at Twitter).
 
 ## Meetups by location
-<a name = “sf”/>
-### SF meetups
 
 ### South Bay meetups
 + [CS + Social Good](http://www.cs4good.com)
