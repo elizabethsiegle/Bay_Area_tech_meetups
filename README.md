@@ -61,6 +61,9 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 <br>
 + [TwitterDev](https://www.meetup.com/pro/twitterdev) hosts meetups all over the world, and past SF meetups have been at Twitter HQ, PubNub, and others. Great speakers and people. Past topics have included "Improving your App's UX with Fabric", "Build mobile apps faster with AWS and Fabric", and "Building the Periscope Experience on Android and more!" among others. Speakers have included [Fastlane](https://fastlane.tools)'s [Felix Krause](https://twitter.com/krausefx), Twitter's [Josh Liebowitz](https://twitter.com/TheLiebowitz), and :sunglasses:[PubNub](https://pubnub.com)'s iOS lead, [Jordan Zucker](https://twitter.com/jzucker), among others.
 <br>
+<img src= images/twitterdev.JPG width=550 height=200>
+<img src= images/twitterdevtalk.jpg width=250 height=250>
+<br>
 + :fire:[San Francisco JavaScript meetup](https://www.meetup.com/jsmeetup/). Great talks, social outings, and also has some “hack sessions.” Led by [Dave Nugent](https://twitter.com/drnugent/). Past talks have included Preact, Inferno, and Async Redux,"Horizon & 5 Kung Fu Moves for Front-End Hero, React, Data Handling, & the JS Event Loop, and more! 
 <br>
 + :fire: [TwitterDev](https://www.meetup.com/pro/twitterdev/) hosts meetups all over the world, and past SF meetups have been at Twitter HQ, PubNub, and others. Great speakers and people. Past topics have included "Improving your App's UX with Fabric", "Build mobile apps faster with AWS and Fabric", and "Building the Periscope Experience on Android and more!" among others. Speakers have included [Fastlane](https://fastlane.tools/)'s [Felix Krause](https://twitter.com/krausefx), Twitter's [Josh Liebowitz](https://twitter.com/TheLiebowitz), and :sunglasses:[PubNub](https://pubnub.com)'s iOS lead, [Jordan Zucker](https://twitter.com/jzucker), among others.
@@ -71,8 +74,9 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 + :fire: [WaffleJS](https://wafflejs.com). Come for the waffles, stay for the speakers. $12 to attend, but is donated to a non-profit (usually Black Girls Code.) Great talks take place first Wednesday of every month at [SoMa StrEAT Food Park](http://www.somastreatfoodpark.com), past ones include Automate your User-interface QA using selenium, and [Rodney Folz’s](https://twitter.com/rodneyfolz) If You Only Make Chrome Extensions, You’re Killing the Open Web.
 <br>
-<img src= images/wafflejs.JPG width=300 height=300>
 
+<img src= images/wafflejs.JPG width=300 height=300>
+<img src= images/wafflejscat.jpg width=300 height=300>
 
 ## Meetups by topic
 
@@ -88,16 +92,8 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 + [Silicon Valley Swift Programming Group](https://www.meetup.com/SWIFTProgramming/). Past topics include unit testing, MapKit/CoreLocation, Swift 3, Xcode 8, IBM w/ Swift Sandbox on Linux, and lots of socializing.
 
-<br>
-<br>
 + [NSMeetup](https://www.meetup.com/nsmeetup/) has an impressive track record of talks speakers, like Swift Reactive Programming for Beginners with [Greg Heo](https://twitter.com/gregheo), Building Apps with tvOS, Layout at Scale with AsyncDisplayKit 2, and  HomeKit Inside And Out.
 <br>
-
-### Android meetups
-+ [SF Android User Group](https://www.meetup.com/sfandroid/) has great talks at offices like Yelp and Google Launchpad. 
-=======
-
-+ :two_hearts: [NSMeetup](https://www.meetup.com/nsmeetup/) has an impressive track record of talks speakers, like Swift Reactive Programming for Beginners with [Greg Heo](https://twitter.com/gregheo), Building Apps with tvOS, Layout at Scale with AsyncDisplayKit 2, and  HomeKit Inside And Out.
 
 ### Android meetups
 + [SF Android User Group](https://www.meetup.com/sfandroid/) has great talks at offices like Yelp and Google Launchpad.
@@ -129,17 +125,18 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 ### Women in tech meetups
 + [PyLadies SF](https://www.meetup.com/PyLadiesSF/) has weekly study groups at different offices around SoMa. In addition to study groups (with food, mentors, and community), there are discussions, talks, and social outings, like a group trip to see Hidden Figures. Led by [Michelle Glauser](https://twitter.com/MichelleGlauser). Past talks/meetups have included Data Science Night at the Wikimedia Foundation, Post-Election Action Night with [Techqueria](https://techqueria.org/), and more!
+
 <br>
-<img src= images/studygroup.JPG width=250 height=150>
+<img src= images/studygroup.JPG width=350 height=250>
 <br>
 
 + :information_desk_person:[Women who Code SF](https://www.meetup.com/Women-Who-Code-SF/) has Ruby and Web Tuesdays held at various SF offices, Mobile Development meetups (talks, mentors, workshops), and more.
 
 + [Airbnb Taking Flight](http://airbnb.io/events/taking-flight/). I attended their mobile lightning talks, which had speakers like :star: [Kristina Thai](https://twitter.com/kristinathai), :punch: [Erin Parker](https://twitter.com/neverbendeasy), and :heartbeat: [Jennifer Shola](https://twitter.com/breakowt)! I learned so much, and loved the atmosphere (and Airbnb had A+ food, drinks, and office in general.) Other speakers included the CTO of Women who Code, [Tracy Chou](https://twitter.com/triketora), and topics ranged from Career Progression for Women in tech to Designing with data: a human-centered approach to data-driven innovation, and more.
 
-<br>
 <img src= images/wwcodeairbnb.JPG width=250 height=150>
-<br>
+
++ [Write/Speak/Code SF Bay](https://www.meetup.com/WriteSpeakCode-SFBay/) Organized by [Julia Nguyen](https://twitter.com/fleurchild), this women and non-binary meetup has lightning talks and workshops welcoming and supportive of beginners, like *Kubernetes Basics*, * How to Learn Deep Learning (when you’re not a computer science PhD)*, and more.
 
 + [Girls in Tech](https://www.meetup.com/GITSANFRAN/). Honestly, these seem more like community-building and support groups—and that’s completely okay. With weekly co-working meetups, and a few other special events, this meetup looks like a fun way to network, learn, and grow at offices like Asana and Amazon AWS Loft.
 
@@ -147,8 +144,11 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 <br>
 <img src= images/squarewomeng.JPG width=550 height=150>
+<img src= images/squarewomeng2.jpg width=250 height=150>
 <br>
-+ Lean in Circles[SF](http://leanincircles.org/circle/women-of-the-415) | [Palo Alto](https://leanincircles.org/circle/palo-alto-lean-in) | [SV](https://leanincircles.org/circle/lean-in-silicon-valley) | and more! Different circles provide different opportunities. SF one tends to offer paid workshops, while the Palo Alto one tends to have more free ones. They all are based on Sheryl Sandberg’s **Lean In**, and are known for their mentorship groups. I attended the Lean In-tern SF meetup, and loved the speakers, one of which was Lyft’s Komal Kirtikar.
++ Lean in Circles [SF](http://leanincircles.org/circle/women-of-the-415) | [Palo Alto](https://leanincircles.org/circle/palo-alto-lean-in) | [SV](https://leanincircles.org/circle/lean-in-silicon-valley) | and more! Different circles provide different opportunities. SF one tends to offer paid workshops, while the Palo Alto one tends to have more free ones. They all are based on Sheryl Sandberg’s **Lean In**, and are known for their mentorship groups. I attended the Lean In-tern SF meetup, and loved the speakers, one of which was Lyft’s Komal Kirtikar.
+<br>
+<img src= images/linkedinternpanel.jpg width=350 height=200>
 <br>
 
 + Lean in Circles [SF](http://leanincircles.org/circle/women-of-the-415) | [Palo Alto](https://leanincircles.org/circle/palo-alto-lean-in) | [SV](https://leanincircles.org/circle/lean-in-silicon-valley) | and more! Different circles provide different opportunities. SF one tends to offer paid workshops, while the Palo Alto one tends to have more free ones. They all are based on Sheryl Sandberg’s **Lean In**, and are known for their mentorship groups. I attended the Lean In-tern SF meetup, and loved the speakers, one of which was Lyft’s Komal Kirtikar.
@@ -197,6 +197,9 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 + [API Craft SF](https://www.meetup.com/API-Craft-San-Francisco/). Meetup topics include API documentation, the future of API Management, Challenges and opportunities of API tooling in a distributed enterprise environment, and The State of API Documentation, 2017 Edition - Industry Report Summary, among others. Locations have included Adobe, Google SF,  etc.
 
 + [API Discovery](https://www.meetup.com/apidiscovery/). Past meetups include Keen IO Analytics API Crash Course, Reinventing Data Security, and more. Past locations have included Square, etc.
+<br>
+
+<img src= images/apidiscovery.jpg width=300 height=200>
 
 + [SF APIs and IPAs](https://www.meetup.com/apiipa/). This meetup was founded January 2017, and seems to be gaining in popularity. Their first meetup featured 2 IPA's from local brewery Hop Dogma, a talk from Co-Founder and brewer Dan Littlefield, talks from CEO of [Thunkable](http://thunkable.com/#/) [Arun Saigal](https://twitter.com/aksaigal), Amazon Alexa Developer Evangelist [Memo Döring](https://twitter.com/memodoring), and Cisco VP/GM [Jason Goecke](https://twitter.com/jsgoecke).
 
@@ -213,6 +216,8 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 ### Robots/Bots meetups
 + [Bay Area Bot, Chat, and Conversational App Developers Group](https://www.meetup.com/Bay-Area-Bot-Chat-and-Conversational-App-Developers/). Talks have included API.ai, IBM Watson Conversation Service APIs, Bebo, and much more! I attended one meetup at Slack HQ, and really enjoyed the topic, speakers, people, and location.
+
++ [Bot Developers Meetup SF](https://www.meetup.com/bots-sf/). Haven't been  to this one, but there seems to be a good-sized group, community, and following each month.
 
 <br>
 <img src= images/botslackmeetup.JPG width=300 height=200>
@@ -237,6 +242,8 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 + [Product Hunt meetups](https://www.producthunt.com/meetups). PH meetups are hosted all around the country, but a [big SF one](https://www.facebook.com/events/1815463425377005/) was hosted recently with AngelList at [1015 Folsom](www.1015.com). There was an insanely long line, and lots of food, drinks, and swag.
 
+<img src = images/producthuntlacroix.jpg width = 300 height=300>
+
 + [UberDev](https://www.meetup.com/UberEvents/). Tech talk series focuses on building scalable, high-quality mobile applications. Past talks include [Matt Ranney](https://twitter.com/mranney) talking The DOSA Object Storage System (Uber’s storage system inspired by Facebook’s TAO system), Dragon: A distributed graph query engine, etc.
 
 ### Virtual/Augmented Reality meetups
@@ -256,6 +263,9 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 
 ### IoT meetups
 + [SF IoT](https://www.meetup.com/The-San-Francisco-Internet-of-Things-Meetup). Some pretty interesting talks regarding things like product development, as well as holiday parties and other socials.
+
+<br>
+<img src= images/tomomiadobe.JPG width=300 height=300>
 
 ### Hardware meetups
 + [TechShop](https://www.meetup.com/TechShop/). Lots of game nights, Laser Club meetings, and happy hours.
