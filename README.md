@@ -58,7 +58,7 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 <img src= images/sfhtml5pres.JPG width=250 height=150>
 <br>
 <br>
-+ :fire: [TwitterDev](https://www.meetup.com/pro/twitterdev/) hosts meetups all over the world, and past SF meetups have been at Twitter HQ, PubNub, and others. Great speakers and people. Past topics have included "Improving your App's UX with Fabric", "Build mobile apps faster with AWS and Fabric", and "Building the Periscope Experience on Android and more!" among others. Speakers have included [Fastlane](https://fastlane.tools/)'s [Felix Krause](https://twitter.com/krausefx), Twitter's [Josh Liebowitz](https://twitter.com/TheLiebowitz), and :sunglasses:[PubNub](https://pubnub.com)'s iOS lead, [Jordan Zucker](https://twitter.com/jzucker), among others.
++ [TwitterDev](https://www.meetup.com/pro/twitterdev) hosts meetups all over the world, and past SF meetups have been at Twitter HQ, PubNub, and others. Great speakers and people. Past topics have included "Improving your App's UX with Fabric", "Build mobile apps faster with AWS and Fabric", and "Building the Periscope Experience on Android and more!" among others. Speakers have included [Fastlane](https://fastlane.tools)'s [Felix Krause](https://twitter.com/krausefx), Twitter's [Josh Liebowitz](https://twitter.com/TheLiebowitz), and :sunglasses:[PubNub](https://pubnub.com)'s iOS lead, [Jordan Zucker](https://twitter.com/jzucker), among others.
 <br>
 + :fire:[San Francisco JavaScript meetup](https://www.meetup.com/jsmeetup/). Great talks, social outings, and also has some “hack sessions.” Led by [Dave Nugent](https://twitter.com/drnugent/). Past talks have included Preact, Inferno, and Async Redux,"Horizon & 5 Kung Fu Moves for Front-End Hero, React, Data Handling, & the JS Event Loop, and more! 
 <br>
@@ -88,12 +88,11 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 + [Silicon Valley Swift Programming Group](https://www.meetup.com/SWIFTProgramming/). Past topics include unit testing, MapKit/CoreLocation, Swift 3, Xcode 8, IBM w/ Swift Sandbox on Linux, and lots of socializing.
 <br>
 <br>
-+ :two_hearts: [NSMeetup](https://www.meetup.com/nsmeetup/) has an impressive track record of talks speakers, like Swift Reactive Programming for Beginners with [Greg Heo](https://twitter.com/gregheo), Building Apps with tvOS, Layout at Scale with AsyncDisplayKit 2, and  HomeKit Inside And Out.
++ [NSMeetup](https://www.meetup.com/nsmeetup/) has an impressive track record of talks speakers, like Swift Reactive Programming for Beginners with [Greg Heo](https://twitter.com/gregheo), Building Apps with tvOS, Layout at Scale with AsyncDisplayKit 2, and  HomeKit Inside And Out.
 <br>
 
 ### Android meetups
 + [SF Android User Group](https://www.meetup.com/sfandroid/) has great talks at offices like Yelp and Google Launchpad. 
-<br>
 
 + [React Native SF](https://www.meetup.com/React-Native-San-Francisco/) Talks hosted at offices like Instacart, Sony, Zynga, and more. Past topics have been Face First React Native and VR, Building Cross-Platform APIs with React Native, and Bridging the Gap: How to use React Native in existing large native code bases, among others
 
@@ -141,7 +140,7 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 <br>
 <img src= images/squarewomeng.JPG width=550 height=150>
 <br>
-+ Lean in Circles [SF](http://leanincircles.org/circle/women-of-the-415) | [Palo Alto](https://leanincircles.org/circle/palo-alto-lean-in) | [SV](https://leanincircles.org/circle/lean-in-silicon-valley) | and more! Different circles provide different opportunities. SF one tends to offer paid workshops, while the Palo Alto one tends to have more free ones. They all are based on Sheryl Sandberg’s **Lean In**, and are known for their mentorship groups. I attended the Lean In-tern SF meetup, and loved the speakers, one of which was Lyft’s Komal Kirtikar.
++ Lean in Circles[SF](http://leanincircles.org/circle/women-of-the-415) | [Palo Alto](https://leanincircles.org/circle/palo-alto-lean-in) | [SV](https://leanincircles.org/circle/lean-in-silicon-valley) | and more! Different circles provide different opportunities. SF one tends to offer paid workshops, while the Palo Alto one tends to have more free ones. They all are based on Sheryl Sandberg’s **Lean In**, and are known for their mentorship groups. I attended the Lean In-tern SF meetup, and loved the speakers, one of which was Lyft’s Komal Kirtikar.
 <br>
 + [Bay Area Girl Geek Dinners](http://bayareagirlgeekdinners.com). Often held at restaurants, BAGGD are sometimes held at places like Google, Yahoo, Genentech, Palantir, or the Computer History Museum, and are often sold-out, garnering around 200 girl geeks for each dinner. Past speakers have included [Leah Culver](https://twitter.com/leahculver), [Julie Zhuo](https://twitter.com/joulee), and [Jocelyn Goldfein](https://twitter.com/jgoldfein). Past talk topics: Scaling Up and Out, Disruptive Creation. Lots of panels, photo booths, swag, and fun. $$.
 <br>
