@@ -13,6 +13,8 @@ As a summer intern in *SoMa*, I attended up to four meetups a week sometimes bec
 
 I have been to most of the meetups listed here, and heard of all of these—you can probably tell the ones I enjoy and recommend based on emoji usage!
 
+*Want monthly emails detailing upcoming meetups and conferences? Sign up for my tech meetup newsletter [here](https://tinyletter.com/lizziepika)!*
+
 ## Table of Contents
   * [Top meetups](#top-meetups)
   * [Meetups by topic](#meetups-by-topic)
