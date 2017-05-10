@@ -60,13 +60,13 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 <br>
 <img src= images/sfhtml5pres.JPG width=250 height=150>
 <br>
-<br>
+
 + [TwitterDev](https://www.meetup.com/pro/twitterdev) hosts meetups all over the world, and past SF meetups have been at Twitter HQ, PubNub, and others. Great speakers and people. Past topics have included "Improving your App's UX with Fabric", "Build mobile apps faster with AWS and Fabric", and "Building the Periscope Experience on Android and more!" among others. Speakers have included [Fastlane](https://fastlane.tools)'s [Felix Krause](https://twitter.com/krausefx), Twitter's [Josh Liebowitz](https://twitter.com/TheLiebowitz), and :sunglasses:[PubNub](https://pubnub.com)'s iOS lead, [Jordan Zucker](https://twitter.com/jzucker), among others.
 <br>
 <img src= images/twitterdev.JPG width=550 height=200>
 <img src= images/twitterdevtalk.jpg width=250 height=250>
 <br>
-+ :fire:[San Francisco JavaScript meetup](https://www.meetup.com/jsmeetup/). Great talks, social outings, and also has some “hack sessions.” Led by [Dave Nugent](https://twitter.com/drnugent/). Past talks have included Preact, Inferno, and Async Redux,"Horizon & 5 Kung Fu Moves for Front-End Hero, React, Data Handling, & the JS Event Loop, and more! 
++ :fire: [San Francisco JavaScript meetup](https://www.meetup.com/jsmeetup/). Great talks, social outings, and also has some “hack sessions.” Led by [Dave Nugent](https://twitter.com/drnugent/). Past talks have included Preact, Inferno, and Async Redux,"Horizon & 5 Kung Fu Moves for Front-End Hero, React, Data Handling, & the JS Event Loop, and more!
 <br>
 + :fire: [TwitterDev](https://www.meetup.com/pro/twitterdev/) hosts meetups all over the world, and past SF meetups have been at Twitter HQ, PubNub, and others. Great speakers and people. Past topics have included "Improving your App's UX with Fabric", "Build mobile apps faster with AWS and Fabric", and "Building the Periscope Experience on Android and more!" among others. Speakers have included [Fastlane](https://fastlane.tools/)'s [Felix Krause](https://twitter.com/krausefx), Twitter's [Josh Liebowitz](https://twitter.com/TheLiebowitz), and :sunglasses:[PubNub](https://pubnub.com)'s iOS lead, [Jordan Zucker](https://twitter.com/jzucker), among others.
 
@@ -132,7 +132,7 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 <img src= images/studygroup.JPG width=350 height=250>
 <br>
 
-+ :information_desk_person:[Women who Code SF](https://www.meetup.com/Women-Who-Code-SF/) has Ruby and Web Tuesdays held at various SF offices, Mobile Development meetups (talks, mentors, workshops), and more.
++ :information_desk_person: [Women who Code SF](https://www.meetup.com/Women-Who-Code-SF/) has Ruby and Web Tuesdays held at various SF offices, Mobile Development meetups (talks, mentors, workshops), and more.
 
 + [Airbnb Taking Flight](http://airbnb.io/events/taking-flight/). I attended their mobile lightning talks, which had speakers like :star: [Kristina Thai](https://twitter.com/kristinathai), :punch: [Erin Parker](https://twitter.com/neverbendeasy), and :heartbeat: [Jennifer Shola](https://twitter.com/breakowt)! I learned so much, and loved the atmosphere (and Airbnb had A+ food, drinks, and office in general.) Other speakers included the CTO of Women who Code, [Tracy Chou](https://twitter.com/triketora), and topics ranged from Career Progression for Women in tech to Designing with data: a human-centered approach to data-driven innovation, and more.
 
@@ -147,9 +147,6 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 <br>
 <img src= images/squarewomeng.JPG width=550 height=150>
 <img src= images/squarewomeng2.jpg width=250 height=150>
-<br>
-+ Lean in Circles [SF](http://leanincircles.org/circle/women-of-the-415) | [Palo Alto](https://leanincircles.org/circle/palo-alto-lean-in) | [SV](https://leanincircles.org/circle/lean-in-silicon-valley) | and more! Different circles provide different opportunities. SF one tends to offer paid workshops, while the Palo Alto one tends to have more free ones. They all are based on Sheryl Sandberg’s **Lean In**, and are known for their mentorship groups. I attended the Lean In-tern SF meetup, and loved the speakers, one of which was Lyft’s Komal Kirtikar.
-<br>
 <img src= images/linkedinternpanel.jpg width=350 height=200>
 <br>
 
@@ -313,6 +310,7 @@ Add people on LinkedIn, Twitter. Don’t be afraid to ask for business cards or 
 There are so many meetups to choose from, both in and out of the Bay Area. Go for the people, go for the community, and go to learn from not just speakers, but attendees. Yes, you can network, but there's so much knowledge to gain and also impart on others.
 
 *TODO*: Been to any meetups? Heard of any good ones? Well, then fork this repo, submit some pull requests, and contribute!
+
 + add thoughts on Bay Area meetups you've attended
 + alphabetize
 + create different categories
