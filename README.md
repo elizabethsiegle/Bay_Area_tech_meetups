@@ -68,9 +68,6 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 <br>
 + :fire: [San Francisco JavaScript meetup](https://www.meetup.com/jsmeetup/). Great talks, social outings, and also has some “hack sessions.” Led by [Dave Nugent](https://twitter.com/drnugent/). Past talks have included Preact, Inferno, and Async Redux,"Horizon & 5 Kung Fu Moves for Front-End Hero, React, Data Handling, & the JS Event Loop, and more!
 <br>
-+ :fire: [TwitterDev](https://www.meetup.com/pro/twitterdev/) hosts meetups all over the world, and past SF meetups have been at Twitter HQ, PubNub, and others. Great speakers and people. Past topics have included "Improving your App's UX with Fabric", "Build mobile apps faster with AWS and Fabric", and "Building the Periscope Experience on Android and more!" among others. Speakers have included [Fastlane](https://fastlane.tools/)'s [Felix Krause](https://twitter.com/krausefx), Twitter's [Josh Liebowitz](https://twitter.com/TheLiebowitz), and :sunglasses:[PubNub](https://pubnub.com)'s iOS lead, [Jordan Zucker](https://twitter.com/jzucker), among others.
-
-+ :fire: [San Francisco JavaScript meetup](https://www.meetup.com/jsmeetup/). Great talks, social outings, and also has some “hack sessions.” Led by [Dave Nugent](https://twitter.com/drnugent/). Past talks have included Preact, Inferno, and Async Redux,"Horizon & 5 Kung Fu Moves for Front-End Hero, React, Data Handling, & the JS Event Loop, and more!
 
 + :fire: [SFNode](https://www.meetup.com/sfnode/) has great talks, food, and people. Held at places like GitHub and Sentry. Led by [Dan Shaw](https://twitter.com/dshaw), some past talks and speakers have included Creating Electronic Dance Music with JavaScript & Node.js with [Walmik Deshpande](https://twitter.com/_walmik) (I attended this talk--it was A+!), Open Source S3 Clone in Node,Authy and Node - Easy and Quick 2FA, and so many more.
 
@@ -297,7 +294,7 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 Whatever can you talk about with people at meetups? If it’s an iOS meetup, I’m guessing you’re both interested in iOS. If it’s at, say, GitHub, there are always cool stickers and the Octocat statue. Get out of your comfort zone! :scream:
 <br>
 <br>
-Add people on LinkedIn, Twitter. Don’t be afraid to ask for business cards or emails or anything. Chances are, you’ll see these people at future meetups, or at other tech meetups around SF. I’m surprised at how tight-knit some of the meetups, or developer community/ies in general are!
+Add people on LinkedIn and Twitter. Don’t be afraid to ask for business cards or emails or anything. Chances are, you’ll see these people at future meetups, or at other tech meetups around SF. I’m surprised at how tight-knit some of the meetups, or developer community/ies in general are!
 
 ## Speaking
 
