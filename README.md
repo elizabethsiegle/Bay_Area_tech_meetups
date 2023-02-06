@@ -38,6 +38,7 @@ I have been to most of the meetups listed here, and heard of all of these—you 
     * [Company-focused meetups](#company-focused-meetups)
     * [Virtual/Augmented Reality meetups](#virtualaugmented-reality-meetups)
     * [Hack for Good meetups](#hack-for-good-meetups)
+    * [Kafka meetups](#kafka-meetups)
     * [Machine Learning meetups](#machine-learning-meetups)
     * [IoT meetups](#iot-meetups)
     * [Hardware meetups](#hardware-meetups)
@@ -253,6 +254,10 @@ With an endless supply of meetups (not just tech-related), and meetups all over 
 + [Code for SF-Civic Hack Nights](https://www.meetup.com/Code-for-San-Francisco-Civic-Hack-Night/). This meetup is focused on improving SF, making changes by fixing government services, creating data visualizations, and engaging San Franciscans. They host weekly hack nights most Wednesdays, as well as some more special meetups.
 
 + [CS + Social Good](http://www.cs4good.com). Stanford’s CS + Social Good provides resources for students to more effectively hack for social good, creates opportunities for interested students to engage in the space, and builds a community of students excited about improving lives with tech. Led by [Lawrence Lin Murata](https://twitter.com/LawLM) and [Vicki Niu](https://twitter.com/oldvickiniutrix), there are occasional meetups and discussions.
+
+### Kafka meetups
+
++ [Bay Area Apache Kafka® Meetup]( https://www.meetup.com/kafkabayarea/). Open community. Topics are related to: Confluent Platform, Confluent Cloud, Apache Kafka®, Kafka Connect, streaming data pipelines, ksqlDB, Kafka Streams as well as stream processing, Security, Microservices and a lot more! Get involved via [this form](http://cnfl.io/get-involved-mu), first time speakers welcome. 
 
 ### Machine Learning meetups
 + [SF Machine Learning](https://www.meetup.com/sfmachinelearning/). They host use cases and office hours, Q&A’s, and talks like How ML can Transform your startup at places like Google Launchpad.
